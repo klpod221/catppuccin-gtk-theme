@@ -1551,15 +1551,15 @@ StEntry StLabel.hint-text,
 
 /* Top Bar */
 #panel {
-  color: rgba(239, 241, 245, 0.7);
+  color: #eff1f5;
   font-weight: bold;
   font-feature-settings: 'tnum';
-  font-size: 12pt;
+  font-size: 10pt;
   transition-duration: 250ms;
   box-shadow: none;
   border: none;
-  height: 35px;
-  background-color: rgba(30, 30, 46, 0.85);
+  height: 30px;
+  background-color: #1e1e2e;
 }
 
 #panel .panel-corner {

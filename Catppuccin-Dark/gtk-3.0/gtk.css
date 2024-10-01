@@ -5966,12 +5966,12 @@ window.background > box.vertical > box.horizontal > frame > border {
 window.background > box.vertical > box.horizontal > frame > scrolledwindow > viewport.frame list {
   border-radius: 12px;
   margin: 0 6px 6px;
-  background-color: #e6e9ef;
-  color: rgba(30, 30, 46, 0.87);
+  background-color: #313244;
+  color: #eff1f5;
 }
 
 window.background > box.vertical > box.horizontal > frame > scrolledwindow > viewport.frame list > row, window.background > box.vertical > box.horizontal > frame > scrolledwindow > viewport.frame list > row:hover, window.background > box.vertical > box.horizontal > frame > scrolledwindow > viewport.frame list > row:active, window.background > box.vertical > box.horizontal > frame > scrolledwindow > viewport.frame list > row:selected {
-  color: rgba(30, 30, 46, 0.87);
+  color: #eff1f5;
 }
 
 window.background > box.vertical > box.horizontal > stack > widget > notebook.frame {
